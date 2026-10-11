@@ -4,7 +4,7 @@ import Collections from '../components/Collections'
 import Benefits from '../components/Benefits'
 import Categories from '../components/Categories'
 import Products from '../components/Products'
-import CTA from '../components/cta'
+import CTA from '../components/CTA'
 import FAQ from '../components/FAQ'
 
 const Home = () => {
